@@ -1,1 +1,2 @@
-# CC3088-lab10-seguridad
+# Laboratorio 10: Seguridad.
+## Curso: CC3088
